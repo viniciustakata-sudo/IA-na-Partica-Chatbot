@@ -9,7 +9,10 @@
 * **Background:** Fiz parte da Mauá JR, Kimauanisso, dei monitoria de projetos também! Pra fechar, fiz um TCC sobre robótica autônoma doméstica.
 * Hoje em dia trabalho com engenharia de software e IA de grandes quantidades de dados, mas sou apaixonado por robótica.
 * **Foco atual:** Arquitetura de Software, Inteligência Artificial e Machine Learning.
-
+  
+<figure style="text-align: center;">
+    <img width="500"  alt="qr-code_linkedin" src="https://github.com/user-attachments/assets/548643cf-bc54-4b26-8c69-db266309c5ed" />
+</figure>
 
 ---
 
